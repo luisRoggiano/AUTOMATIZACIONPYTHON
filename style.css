@@ -1,0 +1,9 @@
+/*. es para la class*/
+.parrafo{
+    background-color: black;
+}
+/*# es para el id*/
+#parrafo{
+    background-color: blue;
+}
+/*p es para todos los parrafos indiferentemente de la clase o del id*/

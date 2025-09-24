@@ -59,7 +59,8 @@ def calculadora(a, operacion, b):
         resultado = a / b
     else : 
         print(f"el operador {operacion} no es conocido")
-    return print(resultado)
+        return None
+    return resultado    
 
 #calculadora(float(input()), input(), float(input()))
 
