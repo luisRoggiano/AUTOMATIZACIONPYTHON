@@ -1,5 +1,5 @@
 import pytest
-import clase3
+import calculadora
 
 
 #@pytest.mark.listo
